@@ -1,0 +1,15 @@
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.csproj.AssemblyReference.cache
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.GeneratedMSBuildEditorConfig.editorconfig
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.AssemblyInfoInputs.cache
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.AssemblyInfo.cs
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.csproj.CoreCompileInputs.cache
+G:\gb\C#\seminar3\homework21\bin\Debug\net6.0\homework21.exe
+G:\gb\C#\seminar3\homework21\bin\Debug\net6.0\homework21.deps.json
+G:\gb\C#\seminar3\homework21\bin\Debug\net6.0\homework21.runtimeconfig.json
+G:\gb\C#\seminar3\homework21\bin\Debug\net6.0\homework21.dll
+G:\gb\C#\seminar3\homework21\bin\Debug\net6.0\homework21.pdb
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.dll
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\refint\homework21.dll
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.pdb
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\homework21.genruntimeconfig.cache
+G:\gb\C#\seminar3\homework21\obj\Debug\net6.0\ref\homework21.dll
